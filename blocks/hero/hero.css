@@ -38,7 +38,7 @@ main .hero-container {
   margin-right: auto;
   color: white;
   position: absolute;
-  bottom: 0;
+  bottom: 45%;
   width: 1000px;
 }
 
