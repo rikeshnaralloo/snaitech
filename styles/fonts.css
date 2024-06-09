@@ -27,7 +27,7 @@
 }
 
 @font-face {
-  font-family: korolev;
+  font-family: korolevbold;
   font-style: normal;
   font-weight: 200;
   font-display: swap;
@@ -36,7 +36,7 @@
 }
 
 @font-face {
-  font-family: korolev;
+  font-family: korolevcond;
   font-style: normal;
   font-weight: 200;
   font-display: swap;
@@ -54,7 +54,7 @@
 }
 
 @font-face {
-  font-family: korolev;
+  font-family: korolevcomp;
   font-style: normal;
   font-weight: 200;
   font-display: swap;
